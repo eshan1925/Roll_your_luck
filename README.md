@@ -3,8 +3,7 @@
 A new Flutter application.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
+In this app i have designed an app which allows you to roll two dices and play whatever you want but not in the app.
 
 A few resources to get you started if this is your first Flutter project:
 
